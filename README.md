@@ -1,2 +1,2 @@
 # Springboot-RestApi-CRUD-JPA-MYSQL
-Rest-api
+Springboot RestApi Controller with HTTP methods POST,PUT,GET,DELETE
